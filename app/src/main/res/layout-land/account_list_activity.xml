@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/fragmentAccountListLand"
+        android:name="com.tim.bcs421_android_timothynegron_project4.AccountListFragment"
+        android:layout_width="349dp"
+        android:layout_height="395dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/account_list_fragment" />
+
+    <fragment
+        android:id="@+id/fragmentAccountDetailLand"
+        android:name="com.tim.bcs421_android_timothynegron_project4.AccountDetailFragment"
+        android:layout_width="363dp"
+        android:layout_height="395dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toEndOf="@+id/fragmentAccountListLand"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/account_detail_fragment" />
+
+</android.support.constraint.ConstraintLayout>

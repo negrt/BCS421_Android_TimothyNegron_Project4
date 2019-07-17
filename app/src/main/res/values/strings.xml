@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bank Accounts</string>
+    <string name="developer_name">Timothy Negron</string>
+    <string name="app_version">Version 2.0</string>
+    <string name="add_account">Add Account</string>
+    <string name="account_name">Account Name</string>
+    <string name="balance">Balance</string>
+    <string name="save_account">Save</string>
+
+    <string name="description_image_bank">Picture of Bank</string>
+    <string name="description_image_app_info">Picture of App Info</string>
+</resources>

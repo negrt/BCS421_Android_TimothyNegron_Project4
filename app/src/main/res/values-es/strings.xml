@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ESP - Bank Accounts</string>
+    <string name="developer_name">ESP - Timothy Negron</string>
+    <string name="app_version">ESP - Version 2.0</string>
+    <string name="add_account">ESP - Add Account</string>
+    <string name="account_name">ESP - Account Name</string>
+    <string name="balance">ESP - Balance</string>
+    <string name="save_account">ESP - Save</string>
+
+    <string name="description_image_bank">ESP - Picture of Bank</string>
+    <string name="description_image_app_info">ESP - Picture of App Info</string>
+</resources>
