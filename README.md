@@ -1,4 +1,4 @@
-# App Name: Bank Accounts
+Bank Accounts
 
 An Android OS application that gives the user the ability to check the information on the bank accounts as well as 
 add new bank accounts.
