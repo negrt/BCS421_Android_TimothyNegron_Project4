@@ -1,7 +1,7 @@
 # App Name: Bank Accounts
 
-An Android OS application that gives you the ability to check the information on the bank accounts as well as 
-add a new bank account.
+An Android OS application that gives the user the ability to check the information on the bank accounts as well as 
+add new bank accounts.
 
 # What I Learned
 
@@ -9,3 +9,4 @@ add a new bank account.
 * Use a recyclerview to display a list of names
 * Use only fragments to display all content
 * Update recyclerview when a data is added
+* Recyclerview click listener
