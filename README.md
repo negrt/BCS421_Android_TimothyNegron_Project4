@@ -8,5 +8,5 @@ add new bank accounts.
 * How to use a data singleton to store data
 * How to use a recyclerview to display a list of names
 * How to use only fragments to display all content
-* How to update recyclerview when a data is added
+* How to update recyclerview when data is added
 * How to set up a recyclerview click listener
