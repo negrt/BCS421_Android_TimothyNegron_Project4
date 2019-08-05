@@ -10,3 +10,4 @@ add new bank accounts.
 * How to use only fragments to display all content
 * How to update recyclerview when data is added
 * How to set up a recyclerview click listener
+* How to create an adapter class
