@@ -12,6 +12,9 @@ add new bank accounts.
 * How to set up a recyclerview click listener
 * How to create an adapter class
 
+# More
+The *main activity* contains two image buttons. When the bank image is selected, the *account list activity (pre)* starts. Account list activity contains a add account button. When the add account button is selected, the *add account activity* starts. In this activity the user is able to add account information and save it. Upon saving, the activity will end and the *account list activity (post)* will be updated. Clicking a bank account in the recycler view will result in starting the account detail activity; *Checking Two, Test Account*. Finally, in the main activity the app information image button will start the *account info activity*. All content is stored in fragments.
+
 # Interface Flow
 ### Main Activity
 ![Image of Main Activity](https://negrt.github.io/cv/images/bkMainActivity.png)
