@@ -19,7 +19,7 @@ The *main activity* contains two image buttons. When the bank image is selected,
 ### Main Activity
 ![Image of Main Activity](https://negrt.github.io/cv/images/bkMainActivity.png)
 
-### Account List Activity (Before adding an account)
+### Account List Activity (Pre: Before adding an account)
 ![Image of Account list Activity](https://negrt.github.io/cv/images/bkAccountListActivity.png)
 
 ### Add Account Activity
@@ -28,7 +28,7 @@ The *main activity* contains two image buttons. When the bank image is selected,
 ### Add Account (Adding Information)
 ![Image of Add Account Activity](https://negrt.github.io/cv/images/bkAddAccountInformation.png)
 
-### Account List Activity (After adding a test account)
+### Account List Activity (Post: After adding a test account)
 ![Image of Add Account Activity](https://negrt.github.io/cv/images/bkAccountListActivityPost.png)
 
 ### Account Detail Activity (Checking two)
