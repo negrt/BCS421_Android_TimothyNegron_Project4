@@ -12,5 +12,9 @@ add new bank accounts.
 * How to set up a recyclerview click listener
 * How to create an adapter class
 
-# Interface Flow Diagram
+# Interface Flow
+### Main Activity
 ![Image of Main Activity](https://negrt.github.io/cv/images/bkMainActivity.png)
+
+### Account List Activity (Before adding an account)
+![Image of Account list Activity](https://negrt.github.io/cv/images/bkAccountListActivity.png)
